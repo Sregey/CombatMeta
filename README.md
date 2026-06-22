@@ -1,2 +1,13 @@
 # CombatMeta
-The basic architecture for the combat and meta systems on Unity
+The basic architecture for the combat and meta systems on Unity.
+
+### App architecture:
+- **App**. Создаёт и запускает приложение. Менеджит состоянием приложения, переходит между боем и метой.
+- **Simulation**. Симуляция боя. Управление игроком, противниками, система абилок, система здоровья.
+- **Meta**. Мета игры, сохранение и загрузка состояния игры
+- **UI**. Игровые скрины: hud, meta, loading и пр.
+- **Common**. Общий код для всего проекта
+
+### Ability system:
+Ability system реализована с поддержкой **тегов** для управления блакировки абилок.
+Например: DashAbility добовляет тег, который блокирует использование остальных абилок игрока.
