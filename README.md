@@ -4,6 +4,12 @@ The basic architecture for the combat and meta systems on Unity.
 ### Launching
 Для запуска игры необходимо открыть сцену Launcher.
 
+### Player's control
+- Движение: WASD
+- Дальняя атака: LMB
+- AoE атака: RMB
+- Dash: Space
+
 ### App architecture:
 - **App**. Создаёт и запускает приложение. Менеджит состоянием приложения, переходит между боем и метой.
 - **Simulation**. Симуляция боя. Управление игроком, противниками, система абилок, система здоровья.
