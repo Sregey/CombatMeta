@@ -1,0 +1,20 @@
+{
+    "name": "SaberCombatMeta.Simulation",
+    "rootNamespace": "SaberCombatMeta.Simulation",
+    "references": [
+        "GUID:78d6f2c001cf5fc418daea17897bd03a",
+        "GUID:1c62602e9cbefa749b10856efc38b099",
+        "GUID:4c54800c29582c34fa55a54e49f80551",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

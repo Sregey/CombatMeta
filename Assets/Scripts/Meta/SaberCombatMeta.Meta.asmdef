@@ -1,0 +1,16 @@
+{
+    "name": "SaberCombatMeta.Meta",
+    "rootNamespace": "SaberCombatMeta.Meta",
+    "references": [
+        "GUID:78d6f2c001cf5fc418daea17897bd03a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,21 @@
+{
+    "name": "SaberCombatMeta.App",
+    "rootNamespace": "SaberCombatMeta.App",
+    "references": [
+        "SaberCombatMeta.App.Contracts",
+        "SaberCombatMeta.Common",
+        "SaberCombatMeta.Meta",
+        "SaberCombatMeta.Simulation",
+        "Zenject",
+        "SaberCombatMeta.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
